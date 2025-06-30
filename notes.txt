@@ -1,0 +1,1 @@
+1: update the DB apply table to include the Id of the Company, and Make it as A fk.
